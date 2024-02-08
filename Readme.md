@@ -11,9 +11,14 @@
 1. DigitalOcean - Host the backend
 1. Vercel - Host the frontend
 
+## System architecture
+![Screenshot](system-arch.png)
+## Data flow
+![Screenshot](data-flow.png)
+
 ## Debugging
 ### Websockets
-1. Make sure you are using `wss://` and not `ws://` in production
+1. We you are using `wss://` and not `ws://` in production
 2. Use debug mode in Caddy server
 ```
 {
