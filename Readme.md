@@ -1,5 +1,5 @@
 ## Build and Deploy a Chat Application That Scales Horizontally with WebSockets and Upstash Redis
-
+### Ui repo link -> https://github.com/RitulBhatnagar/scalable-chat-app-ui/tree/master
 ## What I have use?
 1. Fastify - Backend
 1. Websockets - Realtime 
