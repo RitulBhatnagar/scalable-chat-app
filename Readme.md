@@ -18,7 +18,7 @@
 
 ## Debugging
 ### Websockets
-1. We you are using `wss://` and not `ws://` in production
+1. Using `wss://` and not `ws://` in production
 2. Use debug mode in Caddy server
 ```
 {
